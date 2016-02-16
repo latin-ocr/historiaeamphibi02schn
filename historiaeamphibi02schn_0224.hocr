@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaeamphibi02schn_0224.png"; bbox 0 0 2113 3440; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 283 162 407 217">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 283 162 407 217">
+     <span class='ocr_line' id='line_1_1' title="bbox 283 162 407 217; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 283 162 407 217; x_wconf 77' lang='lat'>216</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 276 309 1918 589">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 276 309 1918 589">
+     <span class='ocr_line' id='line_1_2' title="bbox 276 309 1910 375; baseline -0.003 0"><span class='ocrx_word' id='word_1_2' title='bbox 276 338 345 375; x_wconf 85' lang='lat' dir='ltr'>ea</span> <span class='ocrx_word' id='word_1_3' title='bbox 425 313 676 372; x_wconf 84' lang='lat' dir='ltr'>aurium</span> <span class='ocrx_word' id='word_1_4' title='bbox 755 310 1072 371; x_wconf 81' lang='lat' dir='ltr'>foramina</span> <span class='ocrx_word' id='word_1_5' title='bbox 1162 309 1499 370; x_wconf 82' lang='lat' dir='ltr'>annotavit</span> <span class='ocrx_word' id='word_1_6' title='bbox 1567 311 1910 370; x_wconf 81' lang='lat' dir='ltr'>Britannus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 280 407 1918 494; baseline -0.004 -18"><span class='ocrx_word' id='word_1_7' title='bbox 280 423 479 494; x_wconf 85' lang='lat' dir='ltr'>Gray‚</span> <span class='ocrx_word' id='word_1_8' title='bbox 524 429 783 494; x_wconf 86' lang='lat' dir='ltr'>propter</span> <span class='ocrx_word' id='word_1_9' title='bbox 829 432 986 492; x_wconf 81' lang='lat' dir='ltr'>quae</span> <span class='ocrx_word' id='word_1_10' title='bbox 1030 407 1339 490; x_wconf 84' lang='lat' dir='ltr'>postremo</span> <span class='ocrx_word' id='word_1_11' title='bbox 1369 412 1519 470; x_wconf 87' lang='lat' dir='ltr'>huic</span> <span class='ocrx_word' id='word_1_12' title='bbox 1555 413 1918 494; x_wconf 70' lang='lat' dir='ltr'>genesiac-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 286 512 1842 589; baseline -0.007 -9"><span class='ocrx_word' id='word_1_13' title='bbox 286 518 596 579; x_wconf 78' lang='lat' dir='ltr'><strong>censenda</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 637 512 847 589; x_wconf 78' lang='lat' dir='ltr'>bestia,</span> <span class='ocrx_word' id='word_1_15' title='bbox 891 514 1056 573; x_wconf 83' lang='lat' dir='ltr'>mihi</span> <span class='ocrx_word' id='word_1_16' title='bbox 1095 513 1390 573; x_wconf 80' lang='lat' dir='ltr'>nondum</span> <span class='ocrx_word' id='word_1_17' title='bbox 1429 513 1574 576; x_wconf 84' lang='lat' dir='ltr'>visa.</span> <span class='ocrx_word' id='word_1_18' title='bbox 1840 515 1842 517; x_wconf 74' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1753 3237 1924 3291">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1753 3237 1924 3291">
+     <span class='ocr_line' id='line_1_5' title="bbox 1753 3237 1924 3291; baseline -0.023 0"><span class='ocrx_word' id='word_1_19' title='bbox 1753 3237 1924 3291; x_wconf 82' lang='lat' dir='ltr'>Boa.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
